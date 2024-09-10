@@ -75,7 +75,7 @@
   <br/>
   <!-- Wakatime -->
   <a href="https://github.com/AnthonyyHL/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AnthonyyHL&theme=swift" alt="WakaTime Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AnthonyyHL&theme=swift&layout=compact" alt="WakaTime Stats" />
   </a>
   
 </div>
