@@ -16,7 +16,7 @@
 
  🔭 I’m currently studying Computer Science Engineering
 
- 🌱 At the moment, I’m exploring frameworks like React and Next.js
+ 🌱 At the moment, I’m exploring test automation and performance test frameworks like Playwright and JMeter
  
  ⚡ Fun fact: Barcelona SC was founded in 1925!
 </div>
@@ -45,6 +45,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,linux,figma,github,git" />
     <img src="https://skillicons.dev/icons?i=python,javascript,typescript,c,java,mysql" /><br>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=selenium,gherkin,cypress,playwright,postman,azuredevops,bash" /><br>
 </div>
 
 <br/>
